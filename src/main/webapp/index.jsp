@@ -22,7 +22,7 @@
 		}
 	%>
 	<br/>
-	<input type="submit" value="Calculate"/>
+	<input type="submit" value="Cal"/>
 
 </form>
 
